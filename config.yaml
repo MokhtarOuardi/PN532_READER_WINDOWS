@@ -1,0 +1,8 @@
+[DEFAULT]
+hide = False
+port = COM14
+baudrate = 115200
+tcp_chck = True
+tcp_id = True
+tcp_ip = 192.168.100.154
+tcp_port = 2105
